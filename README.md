@@ -1,21 +1,13 @@
-# EFI OpenCore Folder for AlderLake Hackintosh
-EFI OpenCore Folder for AlderLake Hackintosh
+# EFI OpenCore Folder for AlderLake and RaptorLake Hackintosh
 
-Installation Guide
-https://www.olarila.com/topic/20908-guide-easy-fast-and-perfect-hackintosh-vanilla-step-by-step-clover-and-opencore-bootloader/
+https://www.olarila.com/topic/25111-hackintosh-efi-folders-with-opencore-mod/
 
-Donation with Paypal https://tinyurl.com/r7fchn9
+Instructions
+-Bios/UEFI in full default settings just set XMP
+-Last Bios UEFI Version
+-Delete old EFI folder and paste new. Don't use merge files
+-Don't use Drag and Drop into EFI partition. Use Copy/Paste instead
+-Reset NVRAM one time - with OpenCore use entry "Reset Nvram" / with Clover use F11 key on boot screen
 
-Donation with Binance 0xdbe48ef6b158f1dd0035d7f49555c99e52f72714
-
-Donation with Stripe https://tinyurl.com/2ssnydn6
-
-Donation with BuyMeaCoffee https://tinyurl.com/bvsbpf6e
-
-Donation with BTC 33HeGCuCSh4tUBqdYkQqKpSDa1E7WeAJQ3
-
-Donation with PicPay @danielnmaldonado
-
-Donation with PiX @danielnmaldonado@gmail.com
-
-Donation with Mercado Livre https://tinyurl.com/y9evkj5u
+Support Olarila Vanilla Hackintosh by making a donation 
+https://www.paypal.com/donate/?hosted_button_id=AA4QBFJQYW2N2
