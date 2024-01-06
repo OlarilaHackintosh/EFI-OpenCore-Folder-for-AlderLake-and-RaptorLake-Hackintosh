@@ -1,6 +1,6 @@
 # EFI OpenCore Folder for AlderLake and RaptorLake Hackintosh
 
-https://www.olarila.com/topic/25111-hackintosh-efi-folders-with-opencore-mod/
+Download: https://www.olarila.com/topic/25111-hackintosh-efi-folders-with-opencore-mod/
 
 Instructions
 -Bios/UEFI in full default settings just set XMP
